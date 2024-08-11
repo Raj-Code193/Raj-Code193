@@ -24,9 +24,15 @@ A sleek and modern portfolio website showcasing my skills, projects, and experie
 Exploring advanced Java concepts on HackerRank
 Building dynamic and responsive web applications with React
 Mastering backend development with Node.js and Express
+
 🔗 Connect with Me
+
+
 LinkedIn - https://www.linkedin.com/in/raj-mangal-593802258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Personal Website - http://raj-portfolio-2.netlify.app
+
+
 📈 GitHub Stats
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate on something exciting. Let's create something amazing together!
